@@ -1,3 +1,12 @@
+This repo contains the code created while following the [ReactJS Tutorial](https://reactjs.org/tutorial/tutorial.html).
+
+## Next Steps
+
+Continue from: <https://reactjs.org/tutorial/tutorial.html#what-is-react>
+
+
+## Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
