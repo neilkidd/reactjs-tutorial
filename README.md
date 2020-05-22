@@ -1,8 +1,12 @@
 This repo contains the code created while following the [ReactJS Tutorial](https://reactjs.org/tutorial/tutorial.html).
 
+Don't clone / fork this repo! Follow the guidance from the tutorial :wink:
+
+> We strongly recommend typing code by hand as you’re working through the tutorial and not using copy/paste. This will help you develop muscle memory and a stronger understanding.
+
 ## Next Steps
 
-Continue from: <https://reactjs.org/tutorial/tutorial.html#what-is-react>
+Continue from: <https://reactjs.org/tutorial/tutorial.html#passing-data-through-props>
 
 
 ## Create React App
