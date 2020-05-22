@@ -6,7 +6,7 @@ Don't clone / fork this repo! Follow the guidance from the tutorial :wink:
 
 ## Next Steps
 
-Continue from: <https://reactjs.org/tutorial/tutorial.html#passing-data-through-props>
+Continue from: <https://reactjs.org/tutorial/tutorial.html#developer-tools>
 
 
 ## Create React App
