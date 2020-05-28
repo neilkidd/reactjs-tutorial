@@ -22,7 +22,7 @@ import './index.css';
 
     handleClick(i) {
         const squares = this.state.squares.slice();
-        squares[i] = this.state.xIsNext ? 'X' : 'O';
+        squares[i] = this.state.xIsNext ? 'X' : '0';
         this.setState({
             squares: squares,
             xIsNext: !this.state.xIsNext,
@@ -39,7 +39,7 @@ import './index.css';
     }
 
     render() {
-      const status = 'Next player: X';
+      const status = 'Next player: ' + (this.state.xIsNext ? 'X' : '0');
 
       return (
         <div>
