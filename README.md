@@ -4,11 +4,6 @@ Don't clone / fork this repo! Follow the guidance from the tutorial :wink:
 
 > We strongly recommend typing code by hand as you’re working through the tutorial and not using copy/paste. This will help you develop muscle memory and a stronger understanding.
 
-## Next Steps
-
-Continue from: <https://reactjs.org/tutorial/tutorial.html#showing-the-past-moves>
-
-
 ## Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
