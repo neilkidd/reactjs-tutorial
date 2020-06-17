@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/eactjs-tutorial/static/css/main.0ebde3ef.chunk.css",
+    "main.js": "/eactjs-tutorial/static/js/main.bbcdec6b.chunk.js",
+    "main.js.map": "/eactjs-tutorial/static/js/main.bbcdec6b.chunk.js.map",
+    "runtime-main.js": "/eactjs-tutorial/static/js/runtime-main.3b531a43.js",
+    "runtime-main.js.map": "/eactjs-tutorial/static/js/runtime-main.3b531a43.js.map",
+    "static/js/2.0784fc1f.chunk.js": "/eactjs-tutorial/static/js/2.0784fc1f.chunk.js",
+    "static/js/2.0784fc1f.chunk.js.map": "/eactjs-tutorial/static/js/2.0784fc1f.chunk.js.map",
+    "index.html": "/eactjs-tutorial/index.html",
+    "precache-manifest.4888665c358bb24266cb984d3598183c.js": "/eactjs-tutorial/precache-manifest.4888665c358bb24266cb984d3598183c.js",
+    "service-worker.js": "/eactjs-tutorial/service-worker.js",
+    "static/css/main.0ebde3ef.chunk.css.map": "/eactjs-tutorial/static/css/main.0ebde3ef.chunk.css.map",
+    "static/js/2.0784fc1f.chunk.js.LICENSE.txt": "/eactjs-tutorial/static/js/2.0784fc1f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b531a43.js",
+    "static/js/2.0784fc1f.chunk.js",
+    "static/css/main.0ebde3ef.chunk.css",
+    "static/js/main.bbcdec6b.chunk.js"
+  ]
+}
